@@ -1,0 +1,8 @@
+google-api-python-client
+google-cloud-pubsub
+google-cloud-logging==1.6.0
+google-cloud-bigquery==0.31.0
+grpcio==1.10.0
+google-api-core
+google-auth
+
